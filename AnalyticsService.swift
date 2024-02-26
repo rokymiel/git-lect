@@ -1,6 +1,6 @@
 final class AnalyticsService {
 
-    func sendEvent() {
+    func sendEvent(_ itemId: String) {
         // ...
     }
 }
